@@ -1,6 +1,6 @@
 # Habilitando o Dashboard no OKE
 
-Este procedimento permite habilitar o dashboard ao cluster de OKE (Kubernetes)
+Este procedimento permite habilitar o dashboard ao cluster de OKE (Kubernetes). https://docs.cloud.oracle.com/pt-br/iaas/Content/ContEng/Concepts/contengoverview.htm
 
 Após criação do cluster e configuração do kubeconfig, digite o seguinte via terminal<br>
 
@@ -59,7 +59,7 @@ Cole o token copiado da consulta ao secret realizada acima <br>
     </tbody>
 </table>
 
-Clique em Sign-in e o dash board será apresentado com os detalhes dos worker nodes
+Clique em Sign-in e o dashboard será apresentado com os detalhes dos worker nodes
 
 <table>
     <tbody>
